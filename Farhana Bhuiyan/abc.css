@@ -1,0 +1,26 @@
+*{
+ margin: 0;
+padding; 0;
+}
+.pinke{
+    font-size: 20px;
+    
+    width: 980px;
+    margin: 0 auto;
+}
+.pinke img{
+    float: right;
+    width: 400px;
+    height: 500px;
+}
+.pinke table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.pinke table th,td{
+    padding-left: 20px;
+    text-align: left;
+}
+.pinke h2{
+    color: darkorange;
+}
